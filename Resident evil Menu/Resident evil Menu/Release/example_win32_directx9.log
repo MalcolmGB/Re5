@@ -1,0 +1,51 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  main.cpp
+C:\Users\Francis\Desktop\imgui-master - Copy\Resident evil Menu\Resident evil Menu\main.cpp(39,19): warning C4002: too many arguments for function-like macro invocation 'CreateWindowW'
+C:\Users\Francis\Desktop\imgui-master - Copy\Resident evil Menu\Resident evil Menu\main.cpp(297,20): warning C4551: function call missing argument list
+C:\Users\Francis\Desktop\imgui-master - Copy\Resident evil Menu\Resident evil Menu\main.cpp(338,20): warning C4551: function call missing argument list
+C:\Users\Francis\Desktop\imgui-master - Copy\Resident evil Menu\Resident evil Menu\main.cpp(379,20): warning C4551: function call missing argument list
+C:\Users\Francis\Desktop\imgui-master - Copy\Resident evil Menu\Resident evil Menu\main.cpp(420,20): warning C4551: function call missing argument list
+C:\Users\Francis\Desktop\imgui-master - Copy\Resident evil Menu\Resident evil Menu\main.cpp(462,20): warning C4551: function call missing argument list
+C:\Users\Francis\Desktop\imgui-master - Copy\Resident evil Menu\Resident evil Menu\main.cpp(503,20): warning C4551: function call missing argument list
+C:\Users\Francis\Desktop\imgui-master - Copy\Resident evil Menu\Resident evil Menu\main.cpp(544,20): warning C4551: function call missing argument list
+C:\Users\Francis\Desktop\imgui-master - Copy\Resident evil Menu\Resident evil Menu\main.cpp(585,20): warning C4551: function call missing argument list
+C:\Users\Francis\Desktop\imgui-master - Copy\Resident evil Menu\Resident evil Menu\main.cpp(626,20): warning C4551: function call missing argument list
+C:\Users\Francis\Desktop\imgui-master - Copy\Resident evil Menu\Resident evil Menu\main.cpp(667,20): warning C4551: function call missing argument list
+C:\Users\Francis\Desktop\imgui-master - Copy\Resident evil Menu\Resident evil Menu\main.cpp(708,20): warning C4551: function call missing argument list
+C:\Users\Francis\Desktop\imgui-master - Copy\Resident evil Menu\Resident evil Menu\main.cpp(749,20): warning C4551: function call missing argument list
+C:\Users\Francis\Desktop\imgui-master - Copy\Resident evil Menu\Resident evil Menu\main.cpp(790,20): warning C4551: function call missing argument list
+C:\Users\Francis\Desktop\imgui-master - Copy\Resident evil Menu\Resident evil Menu\main.cpp(833,20): warning C4551: function call missing argument list
+C:\Users\Francis\Desktop\imgui-master - Copy\Resident evil Menu\Resident evil Menu\main.cpp(874,20): warning C4551: function call missing argument list
+C:\Users\Francis\Desktop\imgui-master - Copy\Resident evil Menu\Resident evil Menu\main.cpp(169,29): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Francis\Desktop\imgui-master - Copy\Resident evil Menu\Resident evil Menu\main.cpp(234,30): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Francis\Desktop\imgui-master - Copy\Resident evil Menu\Resident evil Menu\main.cpp(91,10): warning C4189: 'show_demo_window': local variable is initialized but not referenced
+C:\Users\Francis\Desktop\imgui-master - Copy\Resident evil Menu\Resident evil Menu\main.cpp(92,10): warning C4189: 'show_another_window': local variable is initialized but not referenced
+  proc.cpp
+  stdafx.cpp
+  Generating code
+C:\Users\Francis\Desktop\imgui-master - Copy\Resident evil Menu\Resident evil Menu\main.cpp(321): warning C4700: uninitialized local variable 'xValue' used
+C:\Users\Francis\Desktop\imgui-master - Copy\Resident evil Menu\Resident evil Menu\main.cpp(362): warning C4700: uninitialized local variable 'yValue' used
+C:\Users\Francis\Desktop\imgui-master - Copy\Resident evil Menu\Resident evil Menu\main.cpp(403): warning C4700: uninitialized local variable 'zValue' used
+C:\Users\Francis\Desktop\imgui-master - Copy\Resident evil Menu\Resident evil Menu\main.cpp(444): warning C4700: uninitialized local variable 'S1Value' used
+C:\Users\Francis\Desktop\imgui-master - Copy\Resident evil Menu\Resident evil Menu\main.cpp(486): warning C4700: uninitialized local variable 'S2Value' used
+C:\Users\Francis\Desktop\imgui-master - Copy\Resident evil Menu\Resident evil Menu\main.cpp(527): warning C4700: uninitialized local variable 'S3Value' used
+C:\Users\Francis\Desktop\imgui-master - Copy\Resident evil Menu\Resident evil Menu\main.cpp(568): warning C4700: uninitialized local variable 'S4Value' used
+C:\Users\Francis\Desktop\imgui-master - Copy\Resident evil Menu\Resident evil Menu\main.cpp(609): warning C4700: uninitialized local variable 'S5Value' used
+C:\Users\Francis\Desktop\imgui-master - Copy\Resident evil Menu\Resident evil Menu\main.cpp(650): warning C4700: uninitialized local variable 'S6Value' used
+C:\Users\Francis\Desktop\imgui-master - Copy\Resident evil Menu\Resident evil Menu\main.cpp(691): warning C4700: uninitialized local variable 'S7Value' used
+C:\Users\Francis\Desktop\imgui-master - Copy\Resident evil Menu\Resident evil Menu\main.cpp(732): warning C4700: uninitialized local variable 'S8Value' used
+C:\Users\Francis\Desktop\imgui-master - Copy\Resident evil Menu\Resident evil Menu\main.cpp(773): warning C4700: uninitialized local variable 'S9Value' used
+C:\Users\Francis\Desktop\imgui-master - Copy\Resident evil Menu\Resident evil Menu\main.cpp(814): warning C4700: uninitialized local variable 'sxValue' used
+C:\Users\Francis\Desktop\imgui-master - Copy\Resident evil Menu\Resident evil Menu\main.cpp(857): warning C4700: uninitialized local variable 'syValue' used
+C:\Users\Francis\Desktop\imgui-master - Copy\Resident evil Menu\Resident evil Menu\main.cpp(898): warning C4700: uninitialized local variable 'szValue' used
+  1538 of 1552 functions (99.1%) were compiled, the rest were copied from previous compilation.
+    26 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  example_win32_directx9.vcxproj -> C:\Users\Francis\Desktop\imgui-master - Copy\Resident evil Menu\Resident evil Menu\Release\example_win32_directx9.exe
